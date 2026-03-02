@@ -1,0 +1,10 @@
+# Archive
+archive/
+
+# Extracted papers
+extracted_papers/
+
+# Temporary files
+*.tmp
+*.log
+.DS_Store
